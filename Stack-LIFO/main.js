@@ -1,4 +1,4 @@
-//FIFO: Fisrt In First Out
+//LIFO: Last In First Out
 
 class Stack {
   #items = [];
